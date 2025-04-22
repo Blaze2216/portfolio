@@ -31,3 +31,15 @@ Languages:       Python | C | HTML | CSS
 Tools & IDEs:    VSCode | gedit | nano (when feeling nostalgic)
 OS Playground:   Arch Linux (Hyprland) | Linux Mint | Windows 11 (reluctantly)
 Frameworks:      Still forging weapons...
+
+![Profile Views](https://komarev.com/ghpvc/?username=Blaze2216&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Blaze2216/portfolio?style=for-the-badge&color=cyan)
+![Lines of Code](https://img.shields.io/tokei/lines/github/Blaze2216/portfolio?style=for-the-badge&color=brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/Blaze2216/portfolio?style=for-the-badge&color=orange)
+
+> *"I don't just debug... I unmake errors at the molecular level."* – Lord Arbitrr
+
+### 📁 Portfolio Structure
+- `index.html` – Main Portal
+- `contact.html` – For summoning the Lord
+- `assets/` – Style scrolls and rune icons
