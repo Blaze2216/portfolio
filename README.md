@@ -18,7 +18,7 @@
 - **System Developer in the Making**
 - Passionate about **Linux**, **low-level magic**, and **building from scratch**
 - Currently crafting skills in:
-  - `Python`, `C`, `HTML`, `CSS`
+  - `Java`, `C`, `HTML`, `CSS`
   - Exploring the dark halls of `Data Structures` and `Operating Systems`
 - Loyal follower of the *Arch* path, with occasional visits to **Mint**, **Pop!_OS**, and **elementary realms**
 
