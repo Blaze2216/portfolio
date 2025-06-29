@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Master--in--Training-00ADB5?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Arch%20User-I%20do%20btw-blue?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Enchanter-yellow?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-Enchanter-yellow?style=for-the-badge&logo=java&logoColor=black">
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🔧 Tech Arsenal
 
 ```bash
-Languages:       Python | C | HTML | CSS
+Languages:       Java | C | HTML | CSS
 Tools & IDEs:    VSCode | gedit | nano (when feeling nostalgic)
 OS Playground:   Arch Linux (Hyprland) | Linux Mint | Windows 11 (reluctantly)
 Frameworks:      Still forging weapons...
